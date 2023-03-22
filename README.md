@@ -8,6 +8,8 @@ Features include creating elections and authorizing users to participate in elec
 
 ### User API
 
+Run `npm i cryptit-e-voting-sdk` to install the package.
+
 Use the standard EVotingClient to allow authorized clients to cast votes in elections and verify results independently of the service provider.
 
 ```typescript
